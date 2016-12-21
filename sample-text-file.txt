@@ -1,3 +1,3 @@
-First line of text&lt;br&gt;
-Second line of text&lt;br&gt;
+First line of text
+Second line of text
 Third line of text
